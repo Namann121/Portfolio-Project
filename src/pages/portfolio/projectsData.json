@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Food-Order Website",
+    "image": "./projectImages/team.png",
+    "description": "",
+    "technologies": "React | Firebase | HTML | CSS | JS",
+    "github": "https://github.com/Namann121/Food-Ordering-website",
+    "deployed": "",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "News App",
+    "image": "./projectImages/quiz.png",
+    "technologies": "React | Bootstrap | HTML | CSS | API",
+    "description": "",
+    "github": "https://github.com/Namann121/News-App",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Weather App",
+    "image": "./projectImages/bike.png",
+    "technologies": "React | Bootstrap | API | HTML | CSS",
+    "description": "",
+    "github": "https://github.com/Namann121/Weather-App",
+    "deployed": "",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Todo-List",
+    "image": "./projectImages/weather.png",
+    "technologies": "React | HTML | CSS",
+    "description": "",
+    "github": "https://github.com/Namann121/ToDo-List",
+    "bgcolor": "#f85781",
+    "id": "4"
+  }
+]
